@@ -1,3 +1,3 @@
 # PythonOOLearning
 
-Aprendizado em Orientação a Objeto estudando pelo curso da Alura
+Estudos de programação orientada a objetos em Python: Este projeto é uma coleção de estudos e exemplos de programação orientada a objetos (POO) em Python. Ele inclui a criação de classes, herança, polimorfismo, encapsulamento e outros conceitos de POO. Além disso, o projeto inclui exemplos práticos, como a criação de uma classe "Programa" e suas subclasses "Filmes" e "Séries". Cada uma dessas classes possuem atributos e métodos específicos, como a capacidade de adicionar um item a uma lista de reprodução e a contagem de likes em filmes. Este projeto foi desenvolvido como material de estudo e está disponível no GitHub para fins educacionais.
