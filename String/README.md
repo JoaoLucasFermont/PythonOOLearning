@@ -1,0 +1,3 @@
+Validador de URLs para Site de Cambio em Python: Este projeto é uma implementação em Python de um validador de URLs para um site de cambio. Ele foi projetado para verificar se uma URL é válida e segue o padrão estabelecido pelo site.
+Para realizar a validação, o programa utiliza expressões regulares (re) para verificar se a URL contém os elementos corretos, como o protocolo, o domínio e o caminho. Além disso, o programa também utiliza strings para manipular a URL e garantir que ela esteja no formato correto.
+Este projeto é útil para garantir que as URLs fornecidas pelos usuários sejam válidas e possam ser usadas no site de cambio, e está disponível no GitHub para fins educacionais e de estudo.
